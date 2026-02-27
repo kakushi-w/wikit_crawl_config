@@ -62,6 +62,9 @@
     },
     "backrooms-split-library": {
       "tags": ["-_wikit-nocrawl"]
+    },
+    "backrooms-hn-cn": {
+      "tags": ["-_wikit-nocrawl"]
     }
   }
 }
