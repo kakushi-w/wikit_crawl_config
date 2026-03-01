@@ -65,6 +65,9 @@
     },
     "backrooms-hn-cn": {
       "tags": ["-_wikit-nocrawl"]
+    },
+    "write-on-paper": {
+      "tags": ["-_wikit-nocrawl"]
     }
   }
 }
